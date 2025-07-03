@@ -9,9 +9,39 @@ By performing these calculations, TechStream Solutions aims to:
 
 This information will guide TechStream Solutions in refining their business strategies, ensuring sustainable growth, and maximizing profitability.
 
+Objective: Calculating the unit economics for Streamline Pro for the month of March 2023. This will help TechStream assess the profitability and efficiency of customer acquisition strategies and operational expenses.
+
 ## 2. Data source
 https://www.google.com/url?q=https%3A%2F%2Fdrive.google.com%2Fdrive%2Ffolders%2F1qhOW9Y2orRXuzbX-kXEmuJ7TMQiRs2Uv%3Fusp%3Ddrive_link
 
-## 3. Data process
-### 3.1. Import data
+## 3. Import data
+- Monthly expenses
+- Payroll
+- Daily marketing spendings
+- Receipts history
+- Customer lifespan data
 
+## 4. Calculate the Unit Economics
+### 4.1 CAC: Customer Acquisition Cost
+total_acquistion_cost = crm_expense + sale_marketing_salary + daily_marketing_expense
+cac = total_acquistion_cost / number_of_new_customers
+CAC = $1,213.97
+Customer Acquisition Cost (CAC): The CAC represents how much it costs to acquire a single new customer. TechStream's CAC is $1,213.97 indicating the combined expenses from CRM tools, sales & marketing salaries, and daily campaign spend are moderately high. This is a crucial metric for measuring marketing efficiency.
+
+### 4.2 ARPU: Average Revenue Per User
+arpu = total_revenue / number_of_customers
+ARPU = $284.36
+
+### 4.3 COGS: Cost of Goods Sold
+cogs = software_expense + shared_expense + production_salary
+COGS = 20,264.0
+
+### 4.4 Gross Margin
+gross_margin = (total_revenue - cogs)/total_revenue
+Gross Margin = 75.6%
+
+### 4.5 LTV - Life Time Value
+ltv = arpu * avg_lifespan_month * gross_margin
+LTV = $2,115.65
+
+### 4.6 LTV / CAC = 1.74
