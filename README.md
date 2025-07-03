@@ -53,4 +53,6 @@ ltv = arpu * avg_lifespan_month * gross_margin
 The LTV is $2,115.65 meaning each customer is expected to generate this amount of value throughout their relationship with TechStream. This figure is critical in long-term planning.
 
 ### 4.6 LTV / CAC
-TechStream's LTV/CAC ratio is 1.74, which means for every one dollar spent acquiring a customer, TechStream is getting $1.74 in return over that customer's lifetime. While TechStream is not losing money per customer, the current ratio is below the commonly recommended benchmark of 3.0, which signals strong and scalable unit economics. => This indicates TechStream's current customer acquisition strategy is not yet efficient enough to sustainably scale profitably.
+TechStream's LTV/CAC ratio is 1.74, which means for every one dollar spent acquiring a customer, TechStream is getting $1.74 in return over that customer's lifetime. While TechStream is not losing money per customer, the current ratio is below the commonly recommended benchmark of 3.0, which signals strong and scalable unit economics.
+
+=> This indicates TechStream's current customer acquisition strategy is not yet efficient enough to sustainably scale profitably.
