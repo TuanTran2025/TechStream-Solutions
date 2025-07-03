@@ -28,22 +28,29 @@ total_acquistion_cost = crm_expense + sale_marketing_salary + daily_marketing_ex
 
 cac = total_acquistion_cost / number_of_new_customers
 
-Customer Acquisition Cost (CAC): The CAC represents how much it costs to acquire a single new customer. TechStream's CAC is $1,213.97 indicating the combined expenses from CRM tools, sales & marketing salaries, and daily campaign spend are moderately high. This is a crucial metric for measuring marketing efficiency.
+The CAC represents how much it costs to acquire a single new customer. TechStream's CAC is $1,213.97 indicating the combined expenses from CRM tools, sales & marketing salaries, and daily campaign spend are moderately high. This is a crucial metric for measuring marketing efficiency.
 
 ### 4.2 ARPU: Average Revenue Per User
+
 arpu = total_revenue / number_of_customers
-ARPU = $284.36
+
+ARPU is $284.36, showing the average revenue generated from each active customer in March. This figure directly affects profitability and informs pricing strategies.
 
 ### 4.3 COGS: Cost of Goods Sold
 cogs = software_expense + shared_expense + production_salary
 COGS = 20,264.0
 
 ### 4.4 Gross Margin
+
 gross_margin = (total_revenue - cogs)/total_revenue
-Gross Margin = 75.6%
+
+Gross Margin at 75.6%, TechStream's gross margin indicates a healthy buffer between revenue and direct production costs (such as hosting, engineering salaries, and shared software). A margin above 60% is often considered strong for SaaS and software companies.
 
 ### 4.5 LTV - Life Time Value
-ltv = arpu * avg_lifespan_month * gross_margin
-LTV = $2,115.65
 
-### 4.6 LTV / CAC = 1.74
+ltv = arpu * avg_lifespan_month * gross_margin
+
+The LTV is $2,115.65 meaning each customer is expected to generate this amount of value throughout their relationship with TechStream. This figure is critical in long-term planning.
+
+### 4.6 LTV / CAC
+TechStream's LTV/CAC ratio is 1.74, which means for every one dollar spent acquiring a customer, TechStream is getting $1.74 in return over that customer's lifetime. While TechStream is not losing money per customer, the current ratio is below the commonly recommended benchmark of 3.0, which signals strong and scalable unit economics. => This indicates TechStream's current customer acquisition strategy is not yet efficient enough to sustainably scale profitably.
