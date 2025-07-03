@@ -23,9 +23,11 @@ https://www.google.com/url?q=https%3A%2F%2Fdrive.google.com%2Fdrive%2Ffolders%2F
 
 ## 4. Calculate the Unit Economics
 ### 4.1 CAC: Customer Acquisition Cost
+
 total_acquistion_cost = crm_expense + sale_marketing_salary + daily_marketing_expense
+
 cac = total_acquistion_cost / number_of_new_customers
-CAC = $1,213.97
+
 Customer Acquisition Cost (CAC): The CAC represents how much it costs to acquire a single new customer. TechStream's CAC is $1,213.97 indicating the combined expenses from CRM tools, sales & marketing salaries, and daily campaign spend are moderately high. This is a crucial metric for measuring marketing efficiency.
 
 ### 4.2 ARPU: Average Revenue Per User
